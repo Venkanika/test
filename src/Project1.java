@@ -38,7 +38,7 @@ public class Project1 {
                 }
             } while (score < 5) ;
 
-            System.out.print("Rating: Strong! Password accepted. ");
+            System.out.print("Rating: Very Strong password bro! Password accepted.  ");
             scanner.close();
 
         }
