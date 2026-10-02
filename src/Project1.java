@@ -34,7 +34,7 @@ public class Project1 {
                     score++;
                 }
                 if (score < 5) {
-                    System.out.println("Rating: Medium. Please try again.");
+                    System.out.println("Rating: Password lerng kak. Please try again.");
                 }
             } while (score < 5) ;
 
